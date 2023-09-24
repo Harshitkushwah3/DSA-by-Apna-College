@@ -36,3 +36,4 @@ class Solution:
         b=max(A)
         sum=a+b
         return sum
+    
